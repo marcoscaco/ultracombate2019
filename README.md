@@ -10,7 +10,8 @@ O locatário, além de aumentar sua qualidade de vida com uma opção de lazer s
 
 
 UltraCampers.pdf -> Pitch
-UltrasolucaoClubes -> the App
+UltrasolucaoClubes.rsproj -> ReactStudio Project (Try to use this to build if UltrasolucaoClubes inside the folder won't work ;) ) 
+UltrasolucaoClubes -> the App folder
 
 
 Follow this "### `npm run build`" to Build then '### `npm start`' inside the app folder to TRY the App
