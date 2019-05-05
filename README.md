@@ -3,25 +3,19 @@
 Repositorio para o projeto Desenvolvido no UltraCombate \o/ pelo Grupo UltraCampers
 
 
-A Ultra Solução CLUBE é uma plataforma da ULTRAGAZ que visa o melhor aproveitamento de espaços ociosos nos clubes de esporte/lazer paulistanos. Este aproveitamento se dá através do cadastro dos espaços e horários disponíveis pela gerência do clube na plataforma, que aparecerão como disponíveis para pessoas que entrarem na plataforma buscando uma opção diferente de esporte e lazer (jogar futebol com seu time ou praticar um esporte de nicho, por exemplo). O pagamento do aluguel será feito também na plataforma, garantindo segurança tanto para o clube quanto para o usuário.
-O lucro da Ultra Solução CLUBE advém de uma taxa variável cobrada em cima do valor de cada aluguel, pelo uso da plataforma.
-Com isso, os clubes que vinham perdendo sócios nos últimos anos por conta da situação financeira do país, se reinventam e adequam a realidade moderna, e têm mais uma fonte de renda para sua manutenção e sustento.
-O locatário, além de aumentar sua qualidade de vida com uma opção de lazer simples e acessível, ainda acumula moedas virtuais, as ULTRACOINZ, a cada aluguel de espaço. As ULTRACOINZ podem ser trocadas futuramente por benefícios em empresas parceiras.
-
-
-
-
-
-
-Follow this "### `npm run build`" to Build then '### `npm start`' inside the app folder to TRY the App
-;)
+A Ultrasolução Clube da Ultragaz traz um novo modelo de negócio para o segmento, com aumento de receita através do melhor aproveitamento de espaços ociosos nos clubes de esporte/lazer. Este aproveitamento se dá através do cadastro dos espaços e horários disponíveis pela gerência do clube na plataforma, que aparecerão como disponíveis para pessoas que entrarem nela buscando uma opção diferente de esporte e lazer (jogar futebol com seu time ou praticar um esporte de nicho, por exemplo). O pagamento do aluguel será feito também na plataforma, garantindo segurança tanto para o clube quanto para o usuário.
+O lucro da Ultrasolução CLUBE advém de uma taxa variável cobrada pelo uso da plataforma, em cima do valor de cada aluguel.
+Com isso, os clubes que perderam sócios nos últimos anos por conta da situação financeira do país, se reinventam e se adequam à realidade moderna, e têm mais uma fonte de receita para sua manutenção e sustento.
+O locatário, além de aumentar sua qualidade de vida com uma opção de lazer simples e acessível, ainda acumula moedas virtuais, as ULTRACOINZ, a cada aluguel. As ULTRACOINZ podem ser trocadas por benefícios em empresas parceiras.
 
 
 UltraCampers.pdf -> Pitch
 UltrasolucaoClubes -> the App
 
 
+Follow this "### `npm run build`" to Build then '### `npm start`' inside the app folder to TRY the App
 
+;)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
